@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.djkoreamall.com" resolutions="1x" timestamp="1540978508163">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.djkoreamall.com" resolutions="1x" timestamp="1540978974746">
   <folder name="css">
     <file name="site_global.css" crc="187914466"/>
     <file name="index.css" crc="406938594" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="u238-5.png" crc="107484578" ref="index"/>
     <file name="ddjrr-crop-u195.png" crc="46784133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -23,7 +24,7 @@
     <file name="ddjrr-crop-u222.png" crc="46784133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u238-5.png" crc="107484578" ref="index"/>
+    <file name="u283-5.png" crc="107484578" ref="index"/>
     <file name="ddjrr-crop-u245.png" crc="46784133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -36,7 +37,6 @@
     <file name="ddjrr-crop-u253.png" crc="46784133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u283-5.png" crc="107484578" ref="index"/>
   </folder>
   <file name="index.html" crc="3951120130" seo="true" mt="1540978497463" redirect="true"/>
 </manifest>
